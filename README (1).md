@@ -1,10 +1,10 @@
-# Type Garden
+# TextFlora
 
-A type generator where stems and roses grow out of the letters as you type. This is my own version of [Type Garden](https://type-garden.vercel.app) by Akshat Agarwal, rebuilt as a single self-contained HTML file: canvas and plain JavaScript, no build step, no dependencies.
+A type generator where stems and roses grow out of the letters as you type. built as a single self-contained HTML file: canvas and plain JavaScript, no build step, no dependencies.
 
 ## Run it
 
-Open `type-garden.html` in any modern browser. Fonts load from Google Fonts, so you need to be online the first time:
+Open `textflora.html` in any modern browser. Fonts load from Google Fonts, so you need to be online the first time:
 
 - **Playfair Display Bold** for the letters (stands in for the original GT Ultra Fine, which is commercial)
 - **DM Mono** for the interface
@@ -55,6 +55,4 @@ Everything lives in `type-garden.html`:
 - No multiplayer: no other gardeners' cursors, and planted roses stay on your screen.
 - Poster mode has five of the original seven motions (Reach and Visitor are not included).
 
-## Credit
 
-Original concept and design by Akshat Agarwal.
